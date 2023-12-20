@@ -46,13 +46,16 @@ A `.env.example` file is provided as a guide to showcase the usage of `.env.loca
 <img width="458" alt="Capture d’écran 2023-12-20 à 16 30 44" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/5197fbb1-2500-487b-894b-44fd5c816ea3">
 
 **Signup** : 
+
 <img width="173" alt="Capture d’écran 2023-12-20 à 16 31 24" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/9fb50be3-cd69-4567-acbd-49b99ae64f5f">
 
 <img width="190" alt="Capture d’écran 2023-12-20 à 16 29 45" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/57ead428-46aa-4049-a2b2-d95b7ef191b8">
+
+<img width="458" alt="Capture d’écran 2023-12-20 à 16 30 15" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/355204f6-edf5-4f0e-afb3-724bd120c2a4">
 
 **Leanding page** : 
 
 <img width="455" alt="Capture d’écran 2023-12-20 à 16 30 04" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/28a387a3-548b-4335-b681-9331e0aa6a89">
 
-<img width="458" alt="Capture d’écran 2023-12-20 à 16 30 15" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/355204f6-edf5-4f0e-afb3-724bd120c2a4">
+
 
