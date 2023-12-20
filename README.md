@@ -34,23 +34,25 @@ A `.env.example` file is provided as a guide to showcase the usage of `.env.loca
 
 ### Getting started
 
-1. To get started create a supabase project first [](https://supabase.com/) you should have an account.
+1. **Supabase Project Creation:** 
+   [Supabase](https://supabase.com/) - Create an account and start a Supabase project.
 
-2. Rename the `.env.example` file to `.env.local` and add the environment variables, you can find a better explanaition in the following path:
-[](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)
+2. **Environment Variables Setup:**
+   [Supabase Quickstart Guide](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs) - Rename the `.env.example` file to `.env.local` and add the necessary environment variables.
 
-3. run `npm install`
-
-4. run `npm run dev`
-
+3. **Setup Steps:**
+   - Run `npm install` to install dependencies.
+   - Run `npm run dev` to start the development server.
 
 ### Resources
-to get better view of how the work is structured please have a look on the resources:
+Here are some resources to help you understand the structure and implementation:
 
-[](https://nextjs.org/docs/app/building-your-application/routing/defining-routes)
-[](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)
-[](https://supabase.com/docs/guides/auth/auth-helpers/nextjs?language=ts#server-side)
-[](https://www.framer.com/motion/introduction/)
+- [Next.js Routing Documentation](https://nextjs.org/docs/app/building-your-application/routing/defining-routes)
+- [Supabase Next.js Quickstarts](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)
+- [Supabase Auth Helpers for Next.js](https://supabase.com/docs/guides/auth/auth-helpers/nextjs?language=ts#server-side)
+- [Framer Motion Introduction](https://www.framer.com/motion/introduction/)
+
+These links should provide you with a clearer understanding of the structure and tools used!
 
 
 ### Visual Guide
