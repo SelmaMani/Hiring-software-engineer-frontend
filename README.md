@@ -31,14 +31,26 @@ Access to the Home page is restricted to authenticated users. Unauthorized attem
 
 A `.env.example` file is provided as a guide to showcase the usage of `.env.local` for declaring environment variables.
 
-1. rename the `.env.example` file to `.env.local` and add the following keys:
 
-url=https://rbluxmrlgdpcenrfslrw.supabase.co
-key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJibHV4bXJsZ2RwY2VucmZzbHJ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDI3MTk2MzcsImV4cCI6MjAxODI5NTYzN30.N0q0YYmU2jGZK-kgMvqsodK5fCoDGSxyW8waCOg3o_A
+### Getting started
 
-2. run `npm install`
+1. To get started create a supabase project first [](https://supabase.com/) you should have an account.
 
-3. run `npm run dev` 
+2. Rename the `.env.example` file to `.env.local` and add the environment variables, you can find a better explanaition in the following path:
+[](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)
+
+3. run `npm install`
+
+4. run `npm run dev`
+
+
+### Resources
+to get better view of how the work is structured please have a look on the resources:
+
+[](https://nextjs.org/docs/app/building-your-application/routing/defining-routes)
+[](https://supabase.com/docs/guides/getting-started/quickstarts/nextjs)
+[](https://supabase.com/docs/guides/auth/auth-helpers/nextjs?language=ts#server-side)
+[](https://www.framer.com/motion/introduction/)
 
 
 ### Visual Guide
