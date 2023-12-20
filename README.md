@@ -33,12 +33,26 @@ A `.env.example` file is provided as a guide to showcase the usage of `.env.loca
 
 ### Visual Guide
 
+**Home** : 
+
 <img width="1280" alt="Capture d’écran 2023-12-20 à 16 32 36" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/5d551d10-831d-4a61-b9bb-11110c09c603">
+
+**Login** : 
+
 <img width="173" alt="Capture d’écran 2023-12-20 à 16 31 31" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/6babc072-6c33-498a-b62b-a07a63c026f1">
-<img width="173" alt="Capture d’écran 2023-12-20 à 16 31 24" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/9fb50be3-cd69-4567-acbd-49b99ae64f5f">
+
 <img width="458" alt="Capture d’écran 2023-12-20 à 16 31 03" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/3583a4c8-ed09-47d1-8779-9dd7c6cb6739">
+
 <img width="458" alt="Capture d’écran 2023-12-20 à 16 30 44" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/5197fbb1-2500-487b-894b-44fd5c816ea3">
+
+**Signup** : 
+<img width="173" alt="Capture d’écran 2023-12-20 à 16 31 24" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/9fb50be3-cd69-4567-acbd-49b99ae64f5f">
+
 <img width="190" alt="Capture d’écran 2023-12-20 à 16 29 45" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/57ead428-46aa-4049-a2b2-d95b7ef191b8">
+
+**Leanding page** : 
+
 <img width="455" alt="Capture d’écran 2023-12-20 à 16 30 04" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/28a387a3-548b-4335-b681-9331e0aa6a89">
+
 <img width="458" alt="Capture d’écran 2023-12-20 à 16 30 15" src="https://github.com/SelmaMani/Hiring-software-engineer-frontend/assets/109527893/355204f6-edf5-4f0e-afb3-724bd120c2a4">
 
